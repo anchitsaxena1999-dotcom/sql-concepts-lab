@@ -1,0 +1,17 @@
+| # | Problem | Function Used | Level |
+|---|---------|--------------|-------|
+| 01 | Most recent order per customer | `ROW_NUMBER()` | Easy |
+| 02 | Top 3 products by revenue per category (with ties) | `DENSE_RANK()` | Medium |
+| 03 | Running cumulative total per customer | `SUM() OVER()` | Easy |
+| 04 | Month-over-month revenue change | `LAG()` | Medium |
+| 05 | Flag customers whose next order came within 30 days | `LEAD()` | Medium |
+| 06 | Compare each order to customer's average order value | `AVG() OVER()` | Easy |
+| 07 | Customer lifetime spend quartile segmentation | `NTILE(4)` | Medium |
+| 08 | 7-day rolling average of daily revenue | `ROWS BETWEEN 6 PRECEDING AND CURRENT ROW` | Medium |
+| 09 | Detect revenue drop > 20% vs previous month per sales rep | `LAG()` + CASE | Hard |
+| 10 | Each customer's first and last order amount | `FIRST_VALUE()` / `LAST_VALUE()` | Medium |
+| 11 | 2nd highest order value per customer | `ROW_NUMBER()` | Easy |
+| 12 | Customers who placed orders in 3 consecutive months | `ROW_NUMBER()` + diff trick | Hard |
+| 13 | Revenue share % of each product | `SUM() OVER()` | Medium |
+| 14 | Customers whose last order is their highest order | `MAX() OVER()` + `ROW_NUMBER()` | Medium |
+| 15 | 3-order moving average revenue per sales rep | `ROWS BETWEEN 2 PRECEDING AND CURRENT ROW` | Medium |
