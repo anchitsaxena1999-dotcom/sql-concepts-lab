@@ -52,7 +52,7 @@ ROWS BETWEEN UNBOUNDED PRECEDING AND UNBOUNDED FOLLOWING
 
 ## 🔗 Follow the LinkedIn Series
 Each question above has a detailed post on LinkedIn →
-[Your LinkedIn Profile](https://www.linkedin.com/in/anchitsaxena-analyst/)
+[LinkedIn Profile](https://www.linkedin.com/in/anchitsaxena-analyst/)
 
 ---
 
