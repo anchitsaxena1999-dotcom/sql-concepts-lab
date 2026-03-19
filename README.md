@@ -15,6 +15,6 @@ organized by topic with clean solutions and explanations.
 
 ## 🔗 Follow the LinkedIn Series
 I post one SQL concept every week →
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR-USERNAME)
+[LinkedIn Profile](https://www.linkedin.com/in/anchitsaxena-analyst/)
 
 ## ⭐ Star the repo if it helps you!
